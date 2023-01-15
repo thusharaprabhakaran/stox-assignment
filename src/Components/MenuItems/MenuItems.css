@@ -1,0 +1,133 @@
+.stox-mi-auto-layout-vertical {
+  position: absolute;
+  top: 298px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  text-align: right;
+  font-size: 8px;
+  color: #a2a2a2;
+}
+
+.stox-acc-break {
+  position: relative;
+  border-top: 1px solid #ececec;
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+  flex-shrink: 0;
+}
+
+.group4 {
+  position: relative;
+  width: 361px;
+  height: 11.71px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 12px;
+  color: #151515;
+}
+
+.stox-accordion {
+  position: relative;
+  width: 361px;
+  height: 9px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 12px;
+  color: #151515;
+}
+
+.stox-spacer {
+  position: absolute;
+  left: 0;
+}
+
+.stox-spacer {
+  top: 1px;
+  background-color: #fff;
+  width: 33px;
+  height: 8px;
+}
+
+.stox-acc-container {
+  top: 0;
+  left: 33px;
+  width: 328px;
+  height: 9px;
+}
+
+.stox-acc-content-items {
+  left: 0;
+  font-size: 10px;
+  line-height: 100%;
+  color: #151515;
+  text-align: left;
+  display: inline-block;
+  width: 80px;
+}
+
+.stox-acc-content-count {
+  position: absolute;
+  top: 3px;
+  left: 275px;
+  line-height: 100%;
+  display: inline-block;
+  width: 55px;
+  height: 6px;
+}
+
+.stox-acc-title {
+  position: absolute;
+  left: 0;
+}
+
+.stox-acc-title {
+  top: 0px;
+  display: inline-block;
+  width: 361px;
+  height: 9px;
+  /* M-BOLD-12 */
+  font-family: 'Maison Neue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 100%;
+  /* or 12px */
+  letter-spacing: 0px;
+  /* dark-grey */
+  color: #151515;
+}
+
+
+
+.stox-acc-content-list,
+.stox-spacer2 {
+  left: 33px;
+  width: 330px;
+}
+
+.stox-spacer2 {
+  left: 0;
+  background-color: #fff;
+  width: 33px;
+}
+
+.stox-acc-content {
+  position: relative;
+  width: 363px;
+  height: 9px;
+  flex-shrink: 0;
+}
+
+.stox-acc-content-list,
+.stox-spacer2,
+.stox-acc-content-items {
+  position: absolute;
+  top: 0;
+  height: 9px;
+}
+

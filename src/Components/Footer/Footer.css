@@ -1,0 +1,127 @@
+.stox-footer-layout-horizontal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+
+.stox-lang-style {
+  letter-spacing: 0.5px;
+  line-height: 100%;
+}
+
+.span {
+  line-height: 20px;
+}
+
+.stox-footer-whatsapp {
+  position: absolute;
+  top: 142px;
+  left: 0;
+}
+
+.stox-mail-style {
+  line-height: 100%;
+}
+
+.span2 {
+  line-height: 12px;
+}
+
+.stox-footer-mail {
+  position: absolute;
+  top: 115px;
+  left: 0;
+  letter-spacing: 0.5px;
+}
+
+.stox-ph-style {
+  line-height: 100%;
+  font-family: "Maison Neue";
+}
+
+.stox-ph-container {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.stox-ph-child-style {
+  line-height: 140%;
+}
+
+.stox-ph-child-container {
+  margin: 0;
+}
+
+.stox-footer-ph {
+  position: absolute;
+  top: 57px;
+  left: 0;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  width: 153px;
+  height: 47px;
+}
+
+.vector-icon {
+  position: absolute;
+  top: 7.29px;
+  left: 113.29px;
+  width: 13.41px;
+  height: 8.12px;
+}
+
+.span4 {
+  line-height: 24px;
+}
+
+.stox-footer-lang,
+.stox-lang-container {
+  position: absolute;
+  left: 0;
+  height: 14px;
+}
+
+.stox-lang-container {
+  top: 0;
+  display: inline-block;
+  width: 108px;
+}
+
+.stox-footer-lang {
+  top: 24px;
+  width: 126px;
+}
+
+.account,
+.contact,
+.review {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 100%;
+  display: inline-block;
+  width: 47px;
+  height: 9px;
+  flex-shrink: 0;
+}
+
+.account,
+.contact {
+  width: 56px;
+}
+
+.account {
+  width: 61px;
+}
+
+.stox-footer {
+  position: absolute;
+  top: 763.71px;
+  left: 32px;
+  width: 200px;
+  height: 162px;
+}

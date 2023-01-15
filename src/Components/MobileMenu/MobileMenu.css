@@ -1,0 +1,41 @@
+.stox-mobile-menu {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1153px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 11px;
+  /*changed from 12px to coincide with the original layout */
+  color: #000;
+  font-family: 'Maison Neue';
+}
+
+.div {
+  position: absolute;
+  height: 69.82%;
+  width: 41.18%;
+  top: 27.42%;
+  left: 61.41%;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+
+.stox-acc-container,
+.stox-acc-icon {
+  position: absolute;
+  top: 0.29px;
+  left: 315.29px;
+  width: 13.41px;
+  height: 8.12px;
+}
+
+.vector-icon2 {
+  position: absolute;
+  top: 2.29px;
+  left: 315.29px;
+  width: 13.41px;
+  height: 8.12px;
+}

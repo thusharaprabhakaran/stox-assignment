@@ -1,0 +1,8 @@
+{
+  "short_name": "Stox Assignment",
+  "name": "Stox Assignment",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

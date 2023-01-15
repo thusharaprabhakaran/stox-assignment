@@ -1,0 +1,52 @@
+.stox-slider-layout-horizontal {
+  position: absolute;
+  top: 89px;
+  left: 13px;
+  width: 378px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  overflow-x: auto;
+}
+
+.stox-slider-layout-horizontal::-webkit-scrollbar {
+  width: 0;
+}
+
+.stox-slider-image {
+  position: relative;
+  width: 118px;
+  height: 180px;
+  flex-shrink: 0;
+}
+
+.stox-slider-icon,
+.stox-slider-title {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+
+.stox-slider-icon {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.stox-slider-title {
+  height: 7.8%;
+  top: 81.65%;
+  letter-spacing: 0.5px;
+  line-height: 100%;
+  display: inline-block;
+}
