@@ -1,4 +1,4 @@
-<h1 align="center">Askphill Code Challenge 💻 </h1>
+<h1 align="center">Ask Phill Code Challenge 💻 </h1>
 
 >  Author -Thushara Prabhakaran\
 >  Github Profile - https://github.com/thusharaprabhakaran
